@@ -1,0 +1,8 @@
+//
+// Created by David Good on 11/6/24.
+//
+
+#ifndef VOIDPITFALLS_RHINO_WITH_A_CHICKEN_HEAD_H
+#define VOIDPITFALLS_RHINO_WITH_A_CHICKEN_HEAD_H
+void chicken_head();
+#endif //VOIDPITFALLS_RHINO_WITH_A_CHICKEN_HEAD_H
